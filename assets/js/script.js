@@ -38,3 +38,9 @@ var numeroUno = parseInt(numeroUnoString)
 var numeroDos = parseInt(numeroDosString) 
 
 console.log('la suma de los numeros es: ' + (numeroUno + numeroDos))
+
+//operadores 
+//Aritmeticos: + - / * %
+//Comparacion: < > <= >= != == === !==
+//Caracteres: +
+
