@@ -44,3 +44,8 @@ console.log('la suma de los numeros es: ' + (numeroUno + numeroDos))
 //Comparacion: < > <= >= != == === !==
 //Caracteres: +
 
+//Template string interpolacion placeholder
+
+var nombre = prompt('ingresa tu nombre')
+console.log('bienvenido ' + nombre);
+console.log(`bienvenido ${nombre}, que bueno que estas aca`); 
